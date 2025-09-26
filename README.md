@@ -1,3 +1,4 @@
-I have nothing to write here so here is one of the overviews of all time
+I enjoy sleeping and recreating Minecraft in very unpractical ways.
+Anyway, here is one of the overviews of all time:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szobek69420&langs_count=15&theme=transparent&hide_border=true&title_color=adbac7&text_color=adbac7&exclude_repo=x86-reference,Dune-copy-in-C,3D-Editor-4-MesteriMC)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szobek69420&langs_count=8&theme=transparent&hide_border=true&title_color=adbac7&text_color=00ffff&exclude_repo=x86-reference,Dune-copy-in-C,3D-Editor-4-MesteriMC)](https://github.com/anuraghazra/github-readme-stats)
