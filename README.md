@@ -1,4 +1,4 @@
-<span style="text_color: 0x00ffff">
+<span style="color: rgb(0,255,255);">
 I enjoy sleeping and recreating Minecraft in very unpractical ways.
 Anyway, here is one of the overviews of all time:
 </span>
