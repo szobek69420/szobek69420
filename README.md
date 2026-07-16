@@ -2,8 +2,6 @@
 <br>
 I am a computer engineering student whose main skill is recreating Minecraft in useless and unpractical ways.
 <br><br>
-Here are my top 5 favourite flavours of Monster:
-<br>
 <table>
   <tr>
     <td colspan="2">
@@ -12,7 +10,7 @@ Here are my top 5 favourite flavours of Monster:
   </tr>
   <tr>
     <td>1.</td>
-    <td><img width="50" height="125" alt="432fbcdf-76c7-429a-998f-9c1c568d84b7" src="https://github.com/user-attachments/assets/10960d4b-53bb-450b-a265-fdb2d4408fdb" /></td>
+    <td align="center"><img width="50" height="125" alt="432fbcdf-76c7-429a-998f-9c1c568d84b7" src="https://github.com/user-attachments/assets/10960d4b-53bb-450b-a265-fdb2d4408fdb" /></td>
   </tr>
   <tr>
     <td>2.</td>
